@@ -37,16 +37,16 @@ The tests showed the expected results and helped identify the incorrect boundari
 # Commit 3: Task 2 (sumEvenNumbers)
 
 ## Which tests in Task2Test were failing before your fix?
--
+- testEmpty(), testOddNumbers(), and testSumEvenNumbers().
 
 ## What was the issue in the code?
--
+- The loop went past the array bounds, causing an ArrayIndexOutOfBoundsException.
 
 ## What change did you make to fix it?
--
+- I changed the loop condition so it stops at the last valid array index and set sum to 0.
 
 ## How did the tests help guide your fix?
--
+- The tests showed that the loop was going outside the array bounds.
 
 ---
 
