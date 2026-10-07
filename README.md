@@ -53,29 +53,29 @@ The tests showed the expected results and helped identify the incorrect boundari
 # Commit 4: Task 3 (sumRange)
 
 ## Which tests in Task3Test were failing before your fix?
--
+- testSumRangeReverseOrder() was failing.
 
 ## What was the issue in the code?
--
+- The method did not handle a range given in reverse order.
 
 ## What change did you make to fix it?
--
+- I added logic to count down when the range is reversed.
 
 ## How did the tests help guide your fix?
--
+- The test showed that a reversed range process failed helping me pin point what to work on
 
 ---
 
 # Overall Reflection
 
 ## Which task was the easiest to fix? Why?
--
+Task two because all the errors were the same and really had one simple change error-wise.
 
 ## Which task was the most difficult? Why?
--
+Wouldn't say difficult but the reverse one took me a second, because it worked one way
 
 ## How did Git help you track your progress through the debugging process?
--
+I know
 
 ## Why is it important to make small, frequent commits when debugging code?
 -
