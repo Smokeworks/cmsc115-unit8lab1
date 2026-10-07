@@ -4,8 +4,7 @@
 Matthew Gordon
 
 ## GitHub Repository URL
-[Paste your GitHub repository URL here.](https://github.com/Smokeworks/cmsc115-unit8lab1)
-
+https://github.com/Smokeworks/cmsc115-unit8lab1
 ---
 
 # Commit 1: Initial Commit
