@@ -11,26 +11,26 @@ Matthew Gordon
 # Commit 1: Initial Commit
 
 ## What did you include in this commit?
-test
+BuggyProgram starter with JUnit tests and the files for this project
 
 ## What was the purpose of this commit?
--
+Uploading the baseline of the project to github
 
 ---
 
 # Commit 2: Task 1 (getGrade)
 
 ## Which tests in Task1Test were failing before your fix?
--
+- Both testGrades() and testEdges() were failing.
 
 ## What was the issue in the code?
--
+The grade levels were reversed and the boundary conditions were incorrect.
 
 ## What change did you make to fix it?
--
+I corrected the grade levels and changed > to >= for 90 and 80.
 
 ## How did the tests help guide your fix?
--
+The tests showed the expected results and helped identify the incorrect boundaries.
 
 ---
 
