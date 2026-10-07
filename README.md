@@ -75,20 +75,19 @@ Task two because all the errors were the same and really had one simple change e
 Wouldn't say difficult but the reverse one took me a second, because it worked one way
 
 ## How did Git help you track your progress through the debugging process?
-I know
+Its like a save point of what you did last and where you left off
 
 ## Why is it important to make small, frequent commits when debugging code?
--
+Because if you make a mistake you dont lose unrelated work when reverting and revising, its just good work flow
 
 ## What did you learn about using JUnit tests to guide debugging?
--
+JUnit tests were quick and efficient because they pinpoint what failed and help you get straight to the problem.
 
----
 
 # Commit 5: Final Reflection
 
 ## What did you complete or update before making this final commit?
--
+- I completed all three tasks, made sure the tests passed, and finished the README reflections.
 
 ## Why is it useful to document your work after completing a programming task?
--
+- It helps keep track of what was changed, why it was changed, and how the problems were fixed.
